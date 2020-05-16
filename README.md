@@ -1,2 +1,6 @@
-# FALK
-Fully-Automated Luxury Kitchen. It's a dream. 
+# Fully-Automated Luxury Kitchen
+
+It's a dream. 
+
+Personal set of tools for kitchen, pantry, and recipe management. 
+
