@@ -12,7 +12,7 @@ On the technical side, I will be practicing working with React and building my o
 
 I'll be adding some of my notes and the resources I find to this page. 
 
-# Helpful Resources
+## Helpful Resources
 
 + [Udemy Course - Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
     + Helpful in helping to think through how to server-client relationships, good overview to link frameworks together, and troubleshooting common pitfalls. 
